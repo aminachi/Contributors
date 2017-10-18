@@ -1,3 +1,3 @@
 # Contributors
 
-Haniyyah Sardar, majoring in Neural Science! 
+Haniyyah, majoring in Neural Science
