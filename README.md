@@ -4,4 +4,5 @@ Haniyyah, majoring in Neural Science
 Isabelle Lavandero
 Nadira Dewji 
 David Klein
+Seunggun Lee
 Fiona
