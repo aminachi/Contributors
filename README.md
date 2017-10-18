@@ -1,2 +1,2 @@
 # Contributors
-Daisy Zheng
+Daisy Zheng Computer Science
